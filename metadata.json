@@ -1,0 +1,48 @@
+{
+  "name": "Trippin' Ape Tribe #11",
+  "symbol": "TAT",
+  "description": "10,000 Apes have fallen under the trance of a mysterious yet charismatic leader, Chorles, but don't worry… it's definitely not a cult.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://bafybeih6n3czjc6cwwiyfmfo5kihuojsxm2jo2y2fdoweo3bq6rq76vli4.ipfs.dweb.link/11.png?ext=png",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "Magenta Swirl"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Ceremonial Hood"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Inferno Trypophobia"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Ten Strip"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Radioactive"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Ceremonial Hood"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
